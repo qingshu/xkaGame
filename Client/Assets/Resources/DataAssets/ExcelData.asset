@@ -1,0 +1,1640 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3c253d8796fd3b40a3554507b3f79ad, type: 3}
+  m_Name: ExcelData
+  m_EditorClassIdentifier: 
+  checkPointDatas:
+  - ID: 1
+    Integral: 1
+    StartFloorId: 1
+    Difficulty: 090000000f00000002000000000000000000000000000000
+    EndFloorId: 38
+  - ID: 2
+    Integral: 2
+    StartFloorId: 1
+    Difficulty: 070000000f00000002000000000000000000000000000000
+    EndFloorId: 38
+  - ID: 3
+    Integral: 3
+    StartFloorId: 1
+    Difficulty: 050000000f00000002000000000000000000000000000000
+    EndFloorId: 38
+  - ID: 4
+    Integral: 4
+    StartFloorId: 1
+    Difficulty: 030000001000000002000000000000000000000000000000
+    EndFloorId: 38
+  - ID: 5
+    Integral: 5
+    StartFloorId: 1
+    Difficulty: 010000001000000002000000000000000000000000000000
+    EndFloorId: 38
+  - ID: 6
+    Integral: 6
+    StartFloorId: 1
+    Difficulty: 000000001000000003000000000000000000000000000000
+    EndFloorId: 38
+  - ID: 7
+    Integral: 7
+    StartFloorId: 1
+    Difficulty: 000000001100000003000000000000000000000000000000
+    EndFloorId: 38
+  - ID: 8
+    Integral: 8
+    StartFloorId: 1
+    Difficulty: 000000001100000003000000000000000000000000000000
+    EndFloorId: 38
+  - ID: 9
+    Integral: 9
+    StartFloorId: 1
+    Difficulty: 000000001100000003000000000000000000000000000000
+    EndFloorId: 38
+  - ID: 10
+    Integral: 10
+    StartFloorId: 1
+    Difficulty: 000000001200000003000000000000000000000000000000
+    EndFloorId: 38
+  - ID: 11
+    Integral: 11
+    StartFloorId: 1
+    Difficulty: 000000001200000004000000000000000000000000000000
+    EndFloorId: 38
+  - ID: 12
+    Integral: 12
+    StartFloorId: 1
+    Difficulty: 000000001200000004000000000000000000000000000000
+    EndFloorId: 38
+  - ID: 13
+    Integral: 13
+    StartFloorId: 1
+    Difficulty: 000000001300000004000000000000000000000000000000
+    EndFloorId: 38
+  - ID: 14
+    Integral: 14
+    StartFloorId: 1
+    Difficulty: 000000001300000004000000000000000000000000000000
+    EndFloorId: 38
+  - ID: 15
+    Integral: 15
+    StartFloorId: 1
+    Difficulty: 000000001300000004000000000000000000000000000000
+    EndFloorId: 38
+  - ID: 16
+    Integral: 16
+    StartFloorId: 1
+    Difficulty: 000000001400000005000000000000000000000000000000
+    EndFloorId: 38
+  - ID: 17
+    Integral: 17
+    StartFloorId: 1
+    Difficulty: 000000001400000005000000000000000000000000000000
+    EndFloorId: 38
+  - ID: 18
+    Integral: 18
+    StartFloorId: 1
+    Difficulty: 000000001400000005000000000000000000000000000000
+    EndFloorId: 38
+  - ID: 19
+    Integral: 19
+    StartFloorId: 1
+    Difficulty: 000000001500000005000000000000000000000000000000
+    EndFloorId: 38
+  - ID: 20
+    Integral: 20
+    StartFloorId: 1
+    Difficulty: 000000001500000005000000010000000000000000000000
+    EndFloorId: 38
+  - ID: 21
+    Integral: 21
+    StartFloorId: 1
+    Difficulty: 000000001500000006000000010000000000000000000000
+    EndFloorId: 38
+  - ID: 22
+    Integral: 22
+    StartFloorId: 1
+    Difficulty: 000000001600000006000000010000000000000000000000
+    EndFloorId: 38
+  - ID: 23
+    Integral: 23
+    StartFloorId: 1
+    Difficulty: 000000001600000006000000010000000000000000000000
+    EndFloorId: 38
+  - ID: 24
+    Integral: 24
+    StartFloorId: 1
+    Difficulty: 000000001600000006000000010000000000000000000000
+    EndFloorId: 38
+  - ID: 25
+    Integral: 25
+    StartFloorId: 1
+    Difficulty: 000000001700000006000000010000000000000000000000
+    EndFloorId: 38
+  - ID: 26
+    Integral: 26
+    StartFloorId: 1
+    Difficulty: 000000001700000007000000010000000000000000000000
+    EndFloorId: 38
+  - ID: 27
+    Integral: 27
+    StartFloorId: 1
+    Difficulty: 000000001700000007000000010000000000000000000000
+    EndFloorId: 38
+  - ID: 28
+    Integral: 28
+    StartFloorId: 1
+    Difficulty: 000000001800000007000000010000000000000000000000
+    EndFloorId: 38
+  - ID: 29
+    Integral: 29
+    StartFloorId: 1
+    Difficulty: 000000001800000007000000010000000000000000000000
+    EndFloorId: 38
+  - ID: 30
+    Integral: 30
+    StartFloorId: 1
+    Difficulty: 000000001800000007000000020000000000000000000000
+    EndFloorId: 38
+  - ID: 31
+    Integral: 31
+    StartFloorId: 1
+    Difficulty: 000000001900000008000000020000000000000000000000
+    EndFloorId: 38
+  - ID: 32
+    Integral: 32
+    StartFloorId: 1
+    Difficulty: 000000001900000008000000020000000000000000000000
+    EndFloorId: 38
+  - ID: 33
+    Integral: 33
+    StartFloorId: 1
+    Difficulty: 000000001900000008000000020000000000000000000000
+    EndFloorId: 38
+  - ID: 34
+    Integral: 34
+    StartFloorId: 1
+    Difficulty: 000000001a00000008000000020000000000000000000000
+    EndFloorId: 38
+  - ID: 35
+    Integral: 35
+    StartFloorId: 1
+    Difficulty: 000000001a00000008000000020000000000000000000000
+    EndFloorId: 38
+  - ID: 36
+    Integral: 36
+    StartFloorId: 1
+    Difficulty: 000000001a00000009000000020000000000000000000000
+    EndFloorId: 38
+  - ID: 37
+    Integral: 37
+    StartFloorId: 1
+    Difficulty: 000000001b00000009000000020000000000000000000000
+    EndFloorId: 38
+  - ID: 38
+    Integral: 38
+    StartFloorId: 1
+    Difficulty: 000000001b00000009000000020000000000000000000000
+    EndFloorId: 38
+  - ID: 39
+    Integral: 39
+    StartFloorId: 1
+    Difficulty: 000000001b00000009000000020000000000000000000000
+    EndFloorId: 38
+  - ID: 40
+    Integral: 40
+    StartFloorId: 1
+    Difficulty: 000000001c00000009000000030000000000000000000000
+    EndFloorId: 38
+  - ID: 41
+    Integral: 41
+    StartFloorId: 1
+    Difficulty: 000000001c0000000a000000030000000000000000000000
+    EndFloorId: 38
+  - ID: 42
+    Integral: 42
+    StartFloorId: 1
+    Difficulty: 000000001c0000000a000000030000000000000000000000
+    EndFloorId: 38
+  - ID: 43
+    Integral: 43
+    StartFloorId: 1
+    Difficulty: 000000001d0000000a000000030000000000000000000000
+    EndFloorId: 38
+  - ID: 44
+    Integral: 44
+    StartFloorId: 1
+    Difficulty: 000000001d0000000a000000030000000000000000000000
+    EndFloorId: 38
+  - ID: 45
+    Integral: 45
+    StartFloorId: 1
+    Difficulty: 000000001d0000000a000000030000000000000000000000
+    EndFloorId: 38
+  - ID: 46
+    Integral: 46
+    StartFloorId: 1
+    Difficulty: 000000001e0000000b000000030000000000000000000000
+    EndFloorId: 38
+  - ID: 47
+    Integral: 47
+    StartFloorId: 1
+    Difficulty: 000000001e0000000b000000030000000000000000000000
+    EndFloorId: 38
+  - ID: 48
+    Integral: 48
+    StartFloorId: 1
+    Difficulty: 000000001e0000000b000000030000000000000000000000
+    EndFloorId: 38
+  - ID: 49
+    Integral: 49
+    StartFloorId: 1
+    Difficulty: 000000001f0000000b000000030000000000000000000000
+    EndFloorId: 38
+  - ID: 50
+    Integral: 50
+    StartFloorId: 1
+    Difficulty: 000000001f0000000b000000040000000000000000000000
+    EndFloorId: 38
+  - ID: 51
+    Integral: 51
+    StartFloorId: 1
+    Difficulty: 000000001f0000000c000000040000000000000000000000
+    EndFloorId: 38
+  - ID: 52
+    Integral: 52
+    StartFloorId: 1
+    Difficulty: 00000000200000000c000000040000000000000000000000
+    EndFloorId: 38
+  - ID: 53
+    Integral: 53
+    StartFloorId: 1
+    Difficulty: 00000000200000000c000000040000000000000000000000
+    EndFloorId: 38
+  - ID: 54
+    Integral: 54
+    StartFloorId: 1
+    Difficulty: 00000000200000000c000000040000000000000000000000
+    EndFloorId: 38
+  - ID: 55
+    Integral: 55
+    StartFloorId: 1
+    Difficulty: 00000000210000000c000000040000000000000000000000
+    EndFloorId: 38
+  - ID: 56
+    Integral: 56
+    StartFloorId: 1
+    Difficulty: 00000000210000000d000000040000000000000000000000
+    EndFloorId: 38
+  - ID: 57
+    Integral: 57
+    StartFloorId: 1
+    Difficulty: 00000000210000000d000000040000000000000000000000
+    EndFloorId: 38
+  - ID: 58
+    Integral: 58
+    StartFloorId: 1
+    Difficulty: 00000000220000000d000000040000000000000000000000
+    EndFloorId: 38
+  - ID: 59
+    Integral: 59
+    StartFloorId: 1
+    Difficulty: 00000000220000000d000000040000000000000000000000
+    EndFloorId: 38
+  - ID: 60
+    Integral: 60
+    StartFloorId: 1
+    Difficulty: 00000000220000000d000000050000000000000000000000
+    EndFloorId: 38
+  - ID: 61
+    Integral: 61
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000050000000000000000000000
+    EndFloorId: 38
+  - ID: 62
+    Integral: 62
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000050000000000000000000000
+    EndFloorId: 38
+  - ID: 63
+    Integral: 63
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000050000000000000000000000
+    EndFloorId: 38
+  - ID: 64
+    Integral: 64
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000050000000000000000000000
+    EndFloorId: 38
+  - ID: 65
+    Integral: 65
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000050000000000000000000000
+    EndFloorId: 38
+  - ID: 66
+    Integral: 66
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000050000000000000000000000
+    EndFloorId: 38
+  - ID: 67
+    Integral: 67
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000050000000000000000000000
+    EndFloorId: 38
+  - ID: 68
+    Integral: 68
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000050000000000000000000000
+    EndFloorId: 38
+  - ID: 69
+    Integral: 69
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000050000000000000000000000
+    EndFloorId: 38
+  - ID: 70
+    Integral: 70
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000060000000000000000000000
+    EndFloorId: 38
+  - ID: 71
+    Integral: 71
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000060000000000000000000000
+    EndFloorId: 38
+  - ID: 72
+    Integral: 72
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000060000000000000000000000
+    EndFloorId: 38
+  - ID: 73
+    Integral: 73
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000060000000000000000000000
+    EndFloorId: 38
+  - ID: 74
+    Integral: 74
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000060000000000000000000000
+    EndFloorId: 38
+  - ID: 75
+    Integral: 75
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000060000000000000000000000
+    EndFloorId: 38
+  - ID: 76
+    Integral: 76
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000060000000000000000000000
+    EndFloorId: 38
+  - ID: 77
+    Integral: 77
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000060000000000000000000000
+    EndFloorId: 38
+  - ID: 78
+    Integral: 78
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000060000000000000000000000
+    EndFloorId: 38
+  - ID: 79
+    Integral: 79
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000060000000000000000000000
+    EndFloorId: 38
+  - ID: 80
+    Integral: 80
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000070000000000000000000000
+    EndFloorId: 38
+  - ID: 81
+    Integral: 81
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000070000000000000000000000
+    EndFloorId: 38
+  - ID: 82
+    Integral: 82
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000070000000000000000000000
+    EndFloorId: 38
+  - ID: 83
+    Integral: 83
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000070000000000000000000000
+    EndFloorId: 38
+  - ID: 84
+    Integral: 84
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000070000000000000000000000
+    EndFloorId: 38
+  - ID: 85
+    Integral: 85
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000070000000000000000000000
+    EndFloorId: 38
+  - ID: 86
+    Integral: 86
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000070000000000000000000000
+    EndFloorId: 38
+  - ID: 87
+    Integral: 87
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000070000000000000000000000
+    EndFloorId: 38
+  - ID: 88
+    Integral: 88
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000070000000000000000000000
+    EndFloorId: 38
+  - ID: 89
+    Integral: 89
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000070000000000000000000000
+    EndFloorId: 38
+  - ID: 90
+    Integral: 90
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000080000000000000000000000
+    EndFloorId: 38
+  - ID: 91
+    Integral: 91
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000080000000000000000000000
+    EndFloorId: 38
+  - ID: 92
+    Integral: 92
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000080000000000000000000000
+    EndFloorId: 38
+  - ID: 93
+    Integral: 93
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000080000000000000000000000
+    EndFloorId: 38
+  - ID: 94
+    Integral: 94
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000080000000000000000000000
+    EndFloorId: 38
+  - ID: 95
+    Integral: 95
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000080000000000000000000000
+    EndFloorId: 38
+  - ID: 96
+    Integral: 96
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000080000000000000000000000
+    EndFloorId: 38
+  - ID: 97
+    Integral: 97
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000080000000000000000000000
+    EndFloorId: 38
+  - ID: 98
+    Integral: 98
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000080000000000000000000000
+    EndFloorId: 38
+  - ID: 99
+    Integral: 99
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000080000000000000000000000
+    EndFloorId: 38
+  - ID: 100
+    Integral: 100
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 101
+    Integral: 101
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 102
+    Integral: 102
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 103
+    Integral: 103
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 104
+    Integral: 104
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 105
+    Integral: 105
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 106
+    Integral: 106
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 107
+    Integral: 107
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 108
+    Integral: 108
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 109
+    Integral: 109
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 110
+    Integral: 110
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 111
+    Integral: 111
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 112
+    Integral: 112
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 113
+    Integral: 113
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 114
+    Integral: 114
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 115
+    Integral: 115
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 116
+    Integral: 116
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 117
+    Integral: 117
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 118
+    Integral: 118
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 119
+    Integral: 119
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 120
+    Integral: 120
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 121
+    Integral: 121
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 122
+    Integral: 122
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 123
+    Integral: 123
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 124
+    Integral: 124
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 125
+    Integral: 125
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 126
+    Integral: 126
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 127
+    Integral: 127
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 128
+    Integral: 128
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 129
+    Integral: 129
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 130
+    Integral: 130
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 131
+    Integral: 131
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 132
+    Integral: 132
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 133
+    Integral: 133
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 134
+    Integral: 134
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 135
+    Integral: 135
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 136
+    Integral: 136
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 137
+    Integral: 137
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 138
+    Integral: 138
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 139
+    Integral: 139
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 140
+    Integral: 140
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 141
+    Integral: 141
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 142
+    Integral: 142
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 143
+    Integral: 143
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 144
+    Integral: 144
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 145
+    Integral: 145
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 146
+    Integral: 146
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 147
+    Integral: 147
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 148
+    Integral: 148
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 149
+    Integral: 149
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 150
+    Integral: 150
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 151
+    Integral: 151
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 152
+    Integral: 152
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 153
+    Integral: 153
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 154
+    Integral: 154
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 155
+    Integral: 155
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 156
+    Integral: 156
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 157
+    Integral: 157
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 158
+    Integral: 158
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 159
+    Integral: 159
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 160
+    Integral: 160
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 161
+    Integral: 161
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 162
+    Integral: 162
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 163
+    Integral: 163
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 164
+    Integral: 164
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 165
+    Integral: 165
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 166
+    Integral: 166
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 167
+    Integral: 167
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 168
+    Integral: 168
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 169
+    Integral: 169
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 170
+    Integral: 170
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 171
+    Integral: 171
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 172
+    Integral: 172
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 173
+    Integral: 173
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 174
+    Integral: 174
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 175
+    Integral: 175
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 176
+    Integral: 176
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 177
+    Integral: 177
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 178
+    Integral: 178
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 179
+    Integral: 179
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 180
+    Integral: 180
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 181
+    Integral: 181
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 182
+    Integral: 182
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 183
+    Integral: 183
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 184
+    Integral: 184
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 185
+    Integral: 185
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 186
+    Integral: 186
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 187
+    Integral: 187
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 188
+    Integral: 188
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 189
+    Integral: 189
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 190
+    Integral: 190
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 191
+    Integral: 191
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 192
+    Integral: 192
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 193
+    Integral: 193
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 194
+    Integral: 194
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 195
+    Integral: 195
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 196
+    Integral: 196
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 197
+    Integral: 197
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 198
+    Integral: 198
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 199
+    Integral: 199
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 200
+    Integral: 200
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 201
+    Integral: 201
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 202
+    Integral: 202
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 203
+    Integral: 203
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 204
+    Integral: 204
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 205
+    Integral: 205
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 206
+    Integral: 206
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 207
+    Integral: 207
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 208
+    Integral: 208
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 209
+    Integral: 209
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 210
+    Integral: 210
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 211
+    Integral: 211
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 212
+    Integral: 212
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 213
+    Integral: 213
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 214
+    Integral: 214
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 215
+    Integral: 215
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 216
+    Integral: 216
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 217
+    Integral: 217
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 218
+    Integral: 218
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 219
+    Integral: 219
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 220
+    Integral: 220
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 221
+    Integral: 221
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 222
+    Integral: 222
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 223
+    Integral: 223
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 224
+    Integral: 224
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 225
+    Integral: 225
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 226
+    Integral: 226
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 227
+    Integral: 227
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 228
+    Integral: 228
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 229
+    Integral: 229
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 230
+    Integral: 230
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 231
+    Integral: 231
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 232
+    Integral: 232
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 233
+    Integral: 233
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 234
+    Integral: 234
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 235
+    Integral: 235
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 236
+    Integral: 236
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 237
+    Integral: 237
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 238
+    Integral: 238
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 239
+    Integral: 239
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 240
+    Integral: 240
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 241
+    Integral: 241
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 242
+    Integral: 242
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 243
+    Integral: 243
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 244
+    Integral: 244
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 245
+    Integral: 245
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 246
+    Integral: 246
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 247
+    Integral: 247
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 248
+    Integral: 248
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 249
+    Integral: 249
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 250
+    Integral: 250
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 251
+    Integral: 251
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 252
+    Integral: 252
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 253
+    Integral: 253
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 254
+    Integral: 254
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 255
+    Integral: 255
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 256
+    Integral: 256
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 257
+    Integral: 257
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 258
+    Integral: 258
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 259
+    Integral: 259
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 260
+    Integral: 260
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 261
+    Integral: 261
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 262
+    Integral: 262
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 263
+    Integral: 263
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 264
+    Integral: 264
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 265
+    Integral: 265
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 266
+    Integral: 266
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 267
+    Integral: 267
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 268
+    Integral: 268
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 269
+    Integral: 269
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 270
+    Integral: 270
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 271
+    Integral: 271
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 272
+    Integral: 272
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 273
+    Integral: 273
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 274
+    Integral: 274
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 275
+    Integral: 275
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 276
+    Integral: 276
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 277
+    Integral: 277
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 278
+    Integral: 278
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 279
+    Integral: 279
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 280
+    Integral: 280
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 281
+    Integral: 281
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 282
+    Integral: 282
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 283
+    Integral: 283
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 284
+    Integral: 284
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 285
+    Integral: 285
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 286
+    Integral: 286
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 287
+    Integral: 287
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 288
+    Integral: 288
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 289
+    Integral: 289
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 290
+    Integral: 290
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 291
+    Integral: 291
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 292
+    Integral: 292
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 293
+    Integral: 293
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 294
+    Integral: 294
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 295
+    Integral: 295
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 296
+    Integral: 296
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 297
+    Integral: 297
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 298
+    Integral: 298
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 299
+    Integral: 299
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  - ID: 300
+    Integral: 300
+    StartFloorId: 1
+    Difficulty: 00000000230000000e000000090000000000000000000000
+    EndFloorId: 38
+  floorDatas:
+  - ID: 1
+    Type: 0
+    Model: KS_01
+  - ID: 2
+    Type: 1
+    Model: JD_01
+  - ID: 3
+    Type: 1
+    Model: JD_02
+  - ID: 4
+    Type: 1
+    Model: JD_03
+  - ID: 5
+    Type: 1
+    Model: JD_04
+  - ID: 6
+    Type: 1
+    Model: JD_05
+  - ID: 7
+    Type: 1
+    Model: JD_06
+  - ID: 8
+    Type: 2
+    Model: PT_01
+  - ID: 9
+    Type: 2
+    Model: PT_02
+  - ID: 10
+    Type: 2
+    Model: PT_03
+  - ID: 11
+    Type: 2
+    Model: PT_04
+  - ID: 12
+    Type: 2
+    Model: PT_05
+  - ID: 13
+    Type: 2
+    Model: PT_06
+  - ID: 14
+    Type: 2
+    Model: PT_07
+  - ID: 15
+    Type: 2
+    Model: PT_08
+  - ID: 16
+    Type: 2
+    Model: PT_09
+  - ID: 17
+    Type: 2
+    Model: PT_10
+  - ID: 18
+    Type: 3
+    Model: KN_01
+  - ID: 19
+    Type: 3
+    Model: KN_02
+  - ID: 20
+    Type: 3
+    Model: KN_03
+  - ID: 21
+    Type: 3
+    Model: KN_04
+  - ID: 22
+    Type: 3
+    Model: KN_05
+  - ID: 23
+    Type: 3
+    Model: KN_06
+  - ID: 24
+    Type: 3
+    Model: KN_07
+  - ID: 25
+    Type: 3
+    Model: KN_08
+  - ID: 26
+    Type: 3
+    Model: KN_09
+  - ID: 27
+    Type: 3
+    Model: KN_10
+  - ID: 28
+    Type: 4
+    Model: CN_01
+  - ID: 29
+    Type: 4
+    Model: CN_02
+  - ID: 30
+    Type: 4
+    Model: CN_03
+  - ID: 31
+    Type: 4
+    Model: CN_04
+  - ID: 32
+    Type: 4
+    Model: CN_05
+  - ID: 33
+    Type: 4
+    Model: CN_06
+  - ID: 34
+    Type: 4
+    Model: CN_07
+  - ID: 35
+    Type: 4
+    Model: CN_08
+  - ID: 36
+    Type: 4
+    Model: CN_09
+  - ID: 37
+    Type: 4
+    Model: CN_10
+  - ID: 38
+    Type: 7
+    Model: DB_01
+  characterDatas:
+  - ID: 1
+    Model: JJ
+    Speed: 1
+    BounceUpEffect: 
+    DropEffect: JJ_tuowei
+    CollisionEffect: Hit_JJ
+    InvincibleEffect: JJ_chongci
+    DeadEffect: 
+    CollisionSound: 
